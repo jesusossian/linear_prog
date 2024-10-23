@@ -1,2 +1,5 @@
 # linear_prog
-Codes developed in the linear programming
+linear programming course
+
+
+https://gurobi.github.io/modeling-examples/
